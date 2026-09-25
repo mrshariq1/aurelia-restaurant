@@ -17,7 +17,7 @@ export const Hero: React.FC<HeroProps> = ({
       {/* Background Image with Deep Photographic Depth */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_fine_dining_interior_1790331386244.jpg"
+          src="/images/hero_fine_dining_interior_1790331386244.jpg"
           alt="Aurelia Michelin-starred dining hall with linen-dressed tables and ambient lighting"
           referrerPolicy="no-referrer"
           fetchPriority="high"

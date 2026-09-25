@@ -26,7 +26,7 @@ export const AboutStory: React.FC = () => {
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-sm overflow-hidden border border-white/[0.08] shadow-2xl group">
               <img
-                src="/src/assets/images/chef_plating_gastronomy_1790331400391.jpg"
+                src="/images/chef_plating_gastronomy_1790331400391.jpg"
                 alt="Executive Head Chef Jean-Luc Laurent executing precise dish finishing at the kitchen pass"
                 referrerPolicy="no-referrer"
                 loading="lazy"

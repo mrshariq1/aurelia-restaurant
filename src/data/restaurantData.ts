@@ -36,7 +36,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Signature',
     dietary: ['gluten-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_hokkaido_scallop_1790331428035.jpg',
+    image: '/images/signature_hokkaido_scallop_1790331428035.jpg',
     pairing: '2021 Chablis Grand Cru "Les Clos"',
     calories: 340,
     ingredients: ['Hokkaido Scallops', 'Sunchoke Puree', 'Ossetra Caviar', 'Chive Oil', 'Fleur de Sel']
@@ -50,7 +50,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Chef’s Special',
     dietary: [],
     spicyLevel: 0,
-    image: '/src/assets/images/chef_plating_gastronomy_1790331400391.jpg',
+    image: '/images/chef_plating_gastronomy_1790331400391.jpg',
     pairing: '2017 Château d’Yquem Sauternes',
     calories: 480,
     ingredients: ['Hudson Valley Foie Gras', 'Mission Figs', 'Piedmont Hazelnuts', 'House Brioche']
@@ -64,7 +64,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Seasonal',
     dietary: ['vegetarian', 'gluten-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_wagyu_tenderloin_1790331414295.jpg',
+    image: '/images/signature_wagyu_tenderloin_1790331414295.jpg',
     pairing: '2020 Meursault Domaine des Comtes Lafon',
     calories: 260,
     ingredients: ['Foraged Morel Mushrooms', 'Shallot Confit', 'Aged Yolk', 'Wild Herb Oil']
@@ -77,7 +77,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 32,
     dietary: ['gluten-free', 'dairy-free'],
     spicyLevel: 1,
-    image: '/src/assets/images/signature_hokkaido_scallop_1790331428035.jpg',
+    image: '/images/signature_hokkaido_scallop_1790331428035.jpg',
     pairing: '2022 Grüner Veltliner Smaragd',
     calories: 220,
     ingredients: ['Hamachi', 'Finger Lime', 'Serrano Chili', 'White Soy', 'Micro Shiso']
@@ -93,7 +93,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Signature',
     dietary: ['gluten-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_wagyu_tenderloin_1790331414295.jpg',
+    image: '/images/signature_wagyu_tenderloin_1790331414295.jpg',
     pairing: '2015 Château Margaux Premier Grand Cru',
     calories: 680,
     ingredients: ['Miyazaki A5 Wagyu', 'Black Winter Truffle', 'Kennebec Potatoes', 'Bone Marrow Glaze']
@@ -107,7 +107,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'House Favorite',
     dietary: ['gluten-free', 'dairy-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_hokkaido_scallop_1790331428035.jpg',
+    image: '/images/signature_hokkaido_scallop_1790331428035.jpg',
     pairing: '2019 Corton-Charlemagne Grand Cru',
     calories: 520,
     ingredients: ['Wild Chilean Sea Bass', 'Saikyo Miso', 'Maitake', 'Sea Asparagus', 'Ginger Dashi']
@@ -121,7 +121,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Seasonal',
     dietary: ['gluten-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/chef_plating_gastronomy_1790331400391.jpg',
+    image: '/images/chef_plating_gastronomy_1790331400391.jpg',
     pairing: '2018 Domaine Dujac Morey-Saint-Denis',
     calories: 610,
     ingredients: ['Rohan Duck', 'Blood Orange', 'Belgian Endive', 'Parsnip', 'Alpine Juniper']
@@ -135,7 +135,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Chef’s Special',
     dietary: ['vegetarian', 'gluten-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/hero_fine_dining_interior_1790331386244.jpg',
+    image: '/images/hero_fine_dining_interior_1790331386244.jpg',
     pairing: '2020 Barolo Vietti Castiglione',
     calories: 450,
     ingredients: ['Romanesco', 'Heirloom Corn Polenta', 'Aged Parmesan', 'Black Garlic', 'Toasted Pine Nuts']
@@ -151,7 +151,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Signature',
     dietary: [],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_wagyu_tenderloin_1790331414295.jpg',
+    image: '/images/signature_wagyu_tenderloin_1790331414295.jpg',
     pairing: '2019 Napa Valley Cabernet Sauvignon',
     calories: 820,
     ingredients: ['A5 Wagyu Blend', 'Gruyère Reserve', 'Black Truffles', 'Shallot Marmalade', 'Artisanal Brioche']
@@ -165,7 +165,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'House Favorite',
     dietary: [],
     spicyLevel: 1,
-    image: '/src/assets/images/hero_fine_dining_interior_1790331386244.jpg',
+    image: '/images/hero_fine_dining_interior_1790331386244.jpg',
     pairing: 'Draft Belgian Tripel or Syrah',
     calories: 780,
     ingredients: ['Dry Aged Chuck', 'Smoked Bone Marrow', 'Vermont White Cheddar', 'Dijon Aioli']
@@ -178,7 +178,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 29,
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/chef_plating_gastronomy_1790331400391.jpg',
+    image: '/images/chef_plating_gastronomy_1790331400391.jpg',
     pairing: '2021 Chianti Classico Riserva',
     calories: 590,
     ingredients: ['Portobello', 'Buffalo Burrata', 'Arugula', 'Sun-Dried Tomatoes', 'Rosemary Focaccia']
@@ -194,7 +194,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Signature',
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_wagyu_tenderloin_1790331414295.jpg',
+    image: '/images/signature_wagyu_tenderloin_1790331414295.jpg',
     pairing: '2020 Brunello di Montalcino',
     calories: 710,
     ingredients: ['Fermented Sourdough', 'Summer Truffle', 'Stracciatella', 'Fior di Latte', 'Thyme']
@@ -208,7 +208,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'House Favorite',
     dietary: [],
     spicyLevel: 0,
-    image: '/src/assets/images/hero_fine_dining_interior_1790331386244.jpg',
+    image: '/images/hero_fine_dining_interior_1790331386244.jpg',
     pairing: '2021 Barbera d’Alba Superiore',
     calories: 680,
     ingredients: ['San Daniele Prosciutto', 'Caramelized Figs', 'Gorgonzola Dolce', 'Organic Honey', 'San Marzano']
@@ -221,7 +221,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 34,
     dietary: [],
     spicyLevel: 3,
-    image: '/src/assets/images/cocktail_artisanal_reserve_1790331442167.jpg',
+    image: '/images/cocktail_artisanal_reserve_1790331442167.jpg',
     pairing: '2020 Etna Rosso Terre Nere',
     calories: 740,
     ingredients: ['Spicy Nduja', 'Smoked Scamorza', 'Calabrian Chili Honey', 'Sweet Bell Peppers', 'Basil']
@@ -234,7 +234,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 30,
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/chef_plating_gastronomy_1790331400391.jpg',
+    image: '/images/chef_plating_gastronomy_1790331400391.jpg',
     pairing: '2022 Greco di Tufo',
     calories: 620,
     ingredients: ['Heirloom Tomatoes', 'Buffalo Mozzarella', 'Wild Oregano', 'Tuscan Olive Oil']
@@ -250,7 +250,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Signature',
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_wagyu_tenderloin_1790331414295.jpg',
+    image: '/images/signature_wagyu_tenderloin_1790331414295.jpg',
     pairing: '2016 Barolo Monfortino Riserva',
     calories: 590,
     ingredients: ['36-Yolk Tagliolini', 'Normandy Butter', 'Parmigiano-Reggiano', 'Alba Truffle']
@@ -264,7 +264,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Chef’s Special',
     dietary: [],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_hokkaido_scallop_1790331428035.jpg',
+    image: '/images/signature_hokkaido_scallop_1790331428035.jpg',
     pairing: '2020 Puligny-Montrachet Premier Cru',
     calories: 540,
     ingredients: ['Maine Lobster', 'Handmade Agnolotti', 'Saffron Bisque', 'Hokkaido Uni', 'Tarragon']
@@ -278,7 +278,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Seasonal',
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/chef_plating_gastronomy_1790331400391.jpg',
+    image: '/images/chef_plating_gastronomy_1790331400391.jpg',
     pairing: '2019 Pinot Noir Russian River Valley',
     calories: 510,
     ingredients: ['Egg Pappardelle', 'Chanterelles', 'Porcini Glaze', 'Pecorino Romano', 'Hazelnuts']
@@ -291,7 +291,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 44,
     dietary: ['dairy-free'],
     spicyLevel: 2,
-    image: '/src/assets/images/cocktail_artisanal_reserve_1790331442167.jpg',
+    image: '/images/cocktail_artisanal_reserve_1790331442167.jpg',
     pairing: '2021 Vermentino di Sardegna',
     calories: 490,
     ingredients: ['Squid Ink Linguine', 'Dungeness Crab', 'Calabrian Chili', 'Garlic Confit', 'Lemon Crumbs']
@@ -307,7 +307,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Signature',
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_wagyu_tenderloin_1790331414295.jpg',
+    image: '/images/signature_wagyu_tenderloin_1790331414295.jpg',
     pairing: '20-Year Tawny Port Ramos Pinto',
     calories: 460,
     ingredients: ['Valrhona 70%', 'Fleur de Sel Caramel', 'Piedmont Praline', 'Tahitian Vanilla Gelato']
@@ -321,7 +321,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Chef’s Special',
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/signature_hokkaido_scallop_1790331428035.jpg',
+    image: '/images/signature_hokkaido_scallop_1790331428035.jpg',
     pairing: '2019 Tokaji Aszú 5 Puttonyos',
     calories: 380,
     ingredients: ['Japanese Yuzu', 'Sable Breton', 'Italian Meringue', '24k Gold Leaf', 'Citrus Blossom']
@@ -334,7 +334,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 20,
     dietary: ['vegetarian'],
     spicyLevel: 0,
-    image: '/src/assets/images/chef_plating_gastronomy_1790331400391.jpg',
+    image: '/images/chef_plating_gastronomy_1790331400391.jpg',
     pairing: 'Champagne Laurent-Perrier Cuvée Rosé',
     calories: 410,
     ingredients: ['Caramelized Feuilletage', 'Madagascar Vanilla Pods', 'Diplomat Cream', 'Wild Raspberries']
@@ -350,7 +350,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Signature',
     dietary: ['vegan', 'gluten-free', 'dairy-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/cocktail_artisanal_reserve_1790331442167.jpg',
+    image: '/images/cocktail_artisanal_reserve_1790331442167.jpg',
     calories: 190,
     ingredients: ['WhistlePig 12yr Rye', 'Applewood Smoke', 'Aromatic Bitters', 'Demerara', 'Orange Oils']
   },
@@ -363,7 +363,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Chef’s Special',
     dietary: ['vegan', 'gluten-free', 'dairy-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/cocktail_artisanal_reserve_1790331442167.jpg',
+    image: '/images/cocktail_artisanal_reserve_1790331442167.jpg',
     calories: 210,
     ingredients: ['Monkey 47 Gin', 'Carpano Antica', 'Saffron Tincture', 'Campari Bitter', 'Orange Essence']
   },
@@ -376,7 +376,7 @@ export const MENU_ITEMS: MenuItem[] = [
     badge: 'Seasonal',
     dietary: ['vegetarian', 'vegan', 'gluten-free', 'dairy-free'],
     spicyLevel: 1,
-    image: '/src/assets/images/hero_fine_dining_interior_1790331386244.jpg',
+    image: '/images/hero_fine_dining_interior_1790331386244.jpg',
     calories: 85,
     ingredients: ['Hibiscus Tea', 'Wild Rose Hydrosol', 'Yuzu Carbonation', 'Pink Peppercorn']
   },
@@ -388,7 +388,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 95,
     dietary: ['vegan', 'gluten-free'],
     spicyLevel: 0,
-    image: '/src/assets/images/cocktail_artisanal_reserve_1790331442167.jpg',
+    image: '/images/cocktail_artisanal_reserve_1790331442167.jpg',
     calories: 150,
     ingredients: ['100% Pinot Noir', 'Old Vine Burgundy', 'French Oak Barrique']
   }
@@ -448,42 +448,42 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-1',
     title: 'The Obsidian Grand Dining Hall',
     category: 'Interior',
-    image: '/src/assets/images/hero_fine_dining_interior_1790331386244.jpg',
+    image: '/images/hero_fine_dining_interior_1790331386244.jpg',
     description: 'Warm atmospheric lighting, Italian dark walnut accents, and custom linen-dressed marble tables.'
   },
   {
     id: 'gal-2',
     title: 'Plating at the Pass',
     category: 'Craft',
-    image: '/src/assets/images/chef_plating_gastronomy_1790331400391.jpg',
+    image: '/images/chef_plating_gastronomy_1790331400391.jpg',
     description: 'Our culinary brigade finishing a tasting course with delicate tweezers and fresh garden botanicals.'
   },
   {
     id: 'gal-3',
     title: 'Miyazaki A5 Wagyu Tenderloin',
     category: 'Cuisine',
-    image: '/src/assets/images/signature_wagyu_tenderloin_1790331414295.jpg',
+    image: '/images/signature_wagyu_tenderloin_1790331414295.jpg',
     description: 'Seared over Binchotan charcoal embers with winter black truffle and glazed baby leeks.'
   },
   {
     id: 'gal-4',
     title: 'Hokkaido Diver Scallop & Ossetra Caviar',
     category: 'Cuisine',
-    image: '/src/assets/images/signature_hokkaido_scallop_1790331428035.jpg',
+    image: '/images/signature_hokkaido_scallop_1790331428035.jpg',
     description: 'Sunchoke silk puree with golden chive blossom glaze and royal sturgeon caviar.'
   },
   {
     id: 'gal-5',
     title: 'The Aurelia Smoked Reserve Bar',
     category: 'Spirits',
-    image: '/src/assets/images/cocktail_artisanal_reserve_1790331442167.jpg',
+    image: '/images/cocktail_artisanal_reserve_1790331442167.jpg',
     description: 'Artisanal spirits, hand-carved ice crystals, and bespoke botanical cocktail creations.'
   },
   {
     id: 'gal-6',
     title: 'Private Sommelier Wine Vault',
     category: 'Interior',
-    image: '/src/assets/images/hero_fine_dining_interior_1790331386244.jpg',
+    image: '/images/hero_fine_dining_interior_1790331386244.jpg',
     description: 'Temperature-controlled cellar room featuring curated vintages from classic and independent growers.'
   }
 ];

@@ -59,7 +59,7 @@ export const ChefExperience: React.FC<ChefExperienceProps> = ({ onReserve }) => 
           <div className="lg:col-span-6 order-1 lg:order-2">
             <div className="relative rounded-sm overflow-hidden border border-white/[0.08] shadow-2xl">
               <img
-                src="/src/assets/images/chef_plating_gastronomy_1790331400391.jpg"
+                src="/images/chef_plating_gastronomy_1790331400391.jpg"
                 alt="Chef Jean-Luc Laurent finishing a dish with precision tweezers"
                 referrerPolicy="no-referrer"
                 loading="lazy"
