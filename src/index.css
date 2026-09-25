@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Cormorant Garamond', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #090a0c;
+    color: #dedbd4;
+    overflow-x: hidden;
+    letter-spacing: 0.01em;
+  }
+
+  :focus-visible {
+    outline: 2px solid #c9a84e;
+    outline-offset: 2px;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: var(--font-serif);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Hairline borders & luxury bronze/gold palette */
+.border-hairline {
+  border-color: rgba(255, 255, 255, 0.07);
+}
+
+.border-gold-subtle {
+  border-color: rgba(212, 175, 55, 0.25);
+}
+
+.text-gold {
+  color: #c9a84e;
+}
+
+.text-gold-light {
+  color: #e5cb7a;
+}
+
+.bg-gold {
+  background-color: #c9a84e;
+}
+
+/* Subtle dot leaders for classic fine dining paper menus */
+.menu-leader {
+  flex-grow: 1;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
+  margin: 0 0.75rem 0.35rem 0.75rem;
+}
+
+/* Custom delicate scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #090a0c;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f2127;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c9a84e;
+}
