@@ -29,7 +29,7 @@ export const Hero: React.FC<HeroProps> = ({
       </div>
 
       {/* Main Hero Visual Core */}
-      <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center pt-28 sm:pt-40 my-auto">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center pt-28 sm:pt-40 my-auto">
         
         {/* Sourcing & Culinary Focus Pill */}
         <div className="inline-flex items-center gap-2 px-3.5 sm:px-4 py-1.5 rounded-sm bg-black/60 border border-[#c9a84e]/30 backdrop-blur-md mb-6 sm:mb-8">

@@ -44,13 +44,10 @@ export const Navbar: React.FC<NavbarProps> = ({
   }, [mobileMenuOpen]);
 
   const navLinks = [
-    { label: 'Story', href: '#story' },
-    { label: 'Signatures', href: '#signatures' },
-    { label: 'The Menu', href: '#menu' },
-    { label: 'Hearth & Chef', href: '#chef' },
+    { label: 'Home', href: '#hero' },
+    { label: 'Menu', href: '#menu' },
+    { label: 'About', href: '#story' },
     { label: 'Gallery', href: '#gallery' },
-    { label: 'Reviews', href: '#reviews' },
-    { label: 'Hours & Location', href: '#location' },
     { label: 'Contact', href: '#contact' },
   ];
 
